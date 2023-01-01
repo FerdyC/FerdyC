@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FerdyC
 - 👀 I’m interested in ...Brilliant Ideas!
-- 🌱 I’m currently learning ...C++
+- 🌱 I’m currently learning ...Html
 - 💞️ I’m looking to collaborate on ...Beginer programmers community
 - 📫 How to reach me ...No bullshit
 
